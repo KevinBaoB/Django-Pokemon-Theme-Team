@@ -1,0 +1,10 @@
+* {
+  background-color: antiquewhite;
+  display: flex;
+  align-content: center;
+}
+
+div {
+  margin: auto;
+  width: 11rem;
+}
